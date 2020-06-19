@@ -35,6 +35,12 @@ a {
   margin: 0;
 }
 
+.row img:hover
+{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+
 .gallery ul li {
   float: left;
   margin: 0 0.8771929825%;
@@ -125,6 +131,7 @@ header p {
   opacity: 1;
 }
 
+
 .port {
   position: absolute;
   width: 100%;
@@ -149,8 +156,8 @@ header p {
 }
 .port img:hover
 {
-     opacity: 0.3;
-      filter: alpha(opacity=30);
+  opacity: 0.3;
+  filter: alpha(opacity=30);
 }
 .port .description {
   float: left;
