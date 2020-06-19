@@ -147,6 +147,11 @@ header p {
 .port img {
   width: 50%;
 }
+.port img:hover
+{
+     opacity: 0.3;
+      filter: alpha(opacity=30);
+}
 .port .description {
   float: left;
   width: 50%;
