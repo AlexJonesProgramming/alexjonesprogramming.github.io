@@ -91,12 +91,12 @@ header p {
   overflow: hidden;
 }
 .gallery ul {
-  padding-top: 50px;
+  padding-top: 25px;
   position: relative;
 }
 .gallery ul li {
   margin-bottom: 20px;
-  width: 23.2456140351%;
+  width: 31%;
   position: relative;
 }
 .gallery ul li a {
