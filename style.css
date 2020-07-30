@@ -14,7 +14,7 @@ body {
   font-weight: 300;
   line-height: 1.5;
   color: #333;
-  background-color: #264653;
+  background-color: #e0e5ec;
 }
 
 a {
@@ -33,6 +33,8 @@ a {
   height: auto;
   padding: 0;
   margin: 0;
+  background-color: #e0e5ec;
+  box-shadow: 4px 2px 16px rgba(136, 165, 191, 0.48), -4px -2px 16px #FFFFFF;
 }
 
 .row img:hover
@@ -43,15 +45,25 @@ a {
 
 .gallery ul li {
   float: left;
-  margin: 0 0.8771929825%;
+  margin:  0.8771929825%;
   overflow: hidden;
-}
+  border-radius: 30px;
+  background-color: #e0e5ec;
+  box-shadow: 4px 2px 16px rgba(136, 165, 191, 0.48), -4px -2px 16px #FFFFFF;
+  }
 
 header {
   background-color: #F4A261;
-  color: #fff;
+  color: #404040;
   text-align: center;
   padding: 0px 0 60px;
+  background: #404040;
+    box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6),
+      -9px -9px 16px rgba(255, 255, 255, 0.5),
+       inset 3px 3px 7px rgba(136, 165, 191, 0.48), 
+      inset -3px -3px 7px #FFFFFF;
+    background: linear-gradient(318.32deg, rgba(163, 177, 198, 0.1) 0%, rgba(163, 177, 198, 0.1) 55%, rgba(163, 177, 198, 0.25) 100%);
+
 }
 header h1 {
   text-align: center;
@@ -139,9 +151,9 @@ header p {
   top: 0;
   left: 0;
   padding-top: 100px;
-  color: #fff;
+  color: #404040;
   background: #ffffff;
-  background-color: #264653;
+  background-color: #e0e5ec;
   z-index: 103;
   visibility: hidden;
   -webkit-transform: translateY(-100%);
@@ -152,7 +164,15 @@ header p {
   transition: all 0.5s ease-in-out;
 }
 .port img {
-  width: 50%;
+  width: 40%;
+  padding: 100px;
+  margin: 5%;
+  border-radius: 30px;
+  background-color: #e0e5ec;
+  box-shadow: 4px 2px 16px rgba(136, 165, 191, 0.48), -4px -2px 16px #FFFFFF;
+  
+
+
 }
 .port img:hover
 {
@@ -161,15 +181,45 @@ header p {
 }
 .port .description {
   float: left;
-  width: 50%;
+  width: 40%;
+  padding: 5%;
+  margin: 5%;
   max-height: 100%;
   padding: 0 40px 40px;
   overflow: auto;
+  border-radius: 30px;
+  box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6),
+      -9px -9px 16px rgba(255, 255, 255, 0.5),
+       inset 3px 3px 7px rgba(136, 165, 191, 0.48), 
+      inset -3px -3px 7px #FFFFFF;
+    background: linear-gradient(318.32deg, rgba(163, 177, 198, 0.1) 0%, rgba(163, 177, 198, 0.1) 55%, rgba(163, 177, 198, 0.25) 100%);
+
+}
+
+.port .youtube
+{
+      float: left;
+  width: 80%;
+  padding: 5%;
+  margin: 10%;
+  max-height: 100%;
+  padding: 0 40px 40px;
+  overflow: auto;
+  border-radius: 30px;
+  box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6),
+      -9px -9px 16px rgba(255, 255, 255, 0.5),
+       inset 3px 3px 7px rgba(136, 165, 191, 0.48), 
+      inset -3px -3px 7px #FFFFFF;
+    background: linear-gradient(318.32deg, rgba(163, 177, 198, 0.1) 0%, rgba(163, 177, 198, 0.1) 55%, rgba(163, 177, 198, 0.25) 100%);
 }
 .port h1 {
   font-size: 35px;
   line-height: 2.3;
   padding: 0;
+}
+
+.port p{
+  text-align: center;
 }
 .port > * {
   opacity: 0;
