@@ -2,12 +2,9 @@
 <html lang="en" >
 
 <script>
-
-function onPageLoad() {
-  document.getElementById("PowerButton").checked = false;
-}
-
 var darkmode = "on";
+
+
 function ChangeColors() 
 {
 	if(darkmode == "on")
@@ -32,9 +29,32 @@ function ChangeColors()
 		document.documentElement.style.setProperty('--Gradient', 'linear-gradient(138.32deg, rgba(26, 26, 26, 0.1) 0%, rgba(102, 102, 102, 0.1) 55%, rgba(102, 102, 102, 0.25) 100%)');
 		document.documentElement.style.setProperty('--HeaderGradient', 'linear-gradient(318.32deg, rgba(102, 102, 102, 0.40) 0%, rgba(102, 102, 102, 0) 20%, rgba(102, 102, 102, 0) 80%, rgba(102, 102, 102, 0.40) 100%)');
 		document.documentElement.style.setProperty('--TextColor', '#e0e5ec');
-		darkmode = "off";
 		darkmode = "on";
 	}
+
+	localStorage.setItem("darkmode", darkmode);
+}
+
+function onPageLoad() {
+
+  console.log(darkmode);
+  darkmode = localStorage.getItem("darkmode");
+  if(darkmode == null)
+  {
+  	darkmode = "on";
+  	localStorage.setItem("darkmode", darkmode);
+  }
+	console.log(darkmode);
+  if(darkmode == "on")
+  {
+  	document.getElementById("PowerButton").checked = false;
+  }
+  else if(darkmode == "off")
+  {
+  	document.getElementById("PowerButton").checked = true;
+  	darkmode = "on";
+  	ChangeColors();
+  }
 }
 </script>
 
