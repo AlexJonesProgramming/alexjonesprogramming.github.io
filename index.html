@@ -19,6 +19,7 @@
 	<title>Alex Jones - Portfolio</title>
 	<link rel="stylesheet" type="text/css" href="fullpage.min.css" />
 	<link rel="stylesheet" href="style.css">
+
 	
 </head>
 <body onload="checkMobile()">
@@ -84,7 +85,6 @@
 				<p>• Compiler Design <br>• Operating Systems <br>• Interactive Programming <br>• Networking <br>• Optimization <br>• Artificial Intelligence
 				</p>
 		</div>
-		
 
 
 		<div class="section" style="background-color: #928272;">
@@ -150,6 +150,7 @@
 	    <p>Toy Tanks is my first published mobile game. I spent three weeks finishing the game (though this was split up over several months due to school) and programmed everything myself using Unity Engine. The game was inspired by Wii Tanks. It is a top down puzzle/shooter in which you navigate a tank through a maze while defeating enemies. The first week of developing this game was during fall break. In this week I managed to get a playable demo done for mobile and PC which I was able to present at my school’s game conference. The second week I spent on the game was during winter break. During this week I cleaned up some of the mechanics and built a level editor so that people could build and share their levels with each other (this is not in the final game). The last week of development was done over spring break. I spent this week polishing the game mechanics, adding a new enemy time, polishing the level design, and polishing the UI. I had a lot of fun building this game and I am very proud to have published a game. </p>
 	    <br>
 	    <button class="modal__button"><a href="https://play.google.com/store/apps/details?id=com.TwoBabyGators.ToyTanks&hl=en_US" target="_blank">View on play store</a></button>
+	     <button class="modal__button"><a href="toyTanks/webGL.html" target="_blank">Play the game</a></button>
      </div>
      <div class="modal__inner__img">
      	<img src="images/Clean/toyTanks.png" alt="" />
@@ -168,7 +169,7 @@
 	    <p>This is a small demo I made of a casino bonus game. I spent about 6 hours working on this project, I did everything except for art which I found on the asset store and my friend Sam edited to fit the game better. I did some research on casino games and how they handle random number generation and found out they have a dedicated chip which constantly produces numbers even if they are not needed so I tried to replicate this by haveing a script produce random numbers every frame and then grabing the numbers from the script when I needed them. I enjoy UI work and UI animation so I enjoyed making this demo quite a bit.
 	    </p>
 	     <br>
-	    <button class="modal__button"><a href="build/webGL.html" target="_blank">Play Demo</a></button>
+	    <button class="modal__button"><a href="webApp/webGL.html" target="_blank">Play Demo</a></button>
      </div>
      <div class="modal__inner__img">
      	<img src="images/Clean/webGL.png" alt="" />
@@ -253,8 +254,8 @@
 	new fullpage('#fullpage', {
 		autoScrolling:true,
 		navigation:true,
-		anchors:['landingpage','aboutpage', 'projectspage', 'educationpage', 'artpage', 'infopage'], //how we link to other pages (for nav bar)
-		navigationTooltips: ['Home','About', 'Projects', 'Education', 'Art', 'Info'],
+		anchors:['landingpage','aboutpage', 'projectspage','educationpage', 'artpage', 'infopage'], //how we link to other pages (for nav bar)
+		navigationTooltips: ['Home','About', 'Projects','Education', 'Art', 'Info'],
 		scrollingSpeed: 1500,
 		//controlArrows: true,
 		//slidesNavigation:true,
