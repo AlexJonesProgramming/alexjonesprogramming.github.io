@@ -1,1 +1,2219 @@
-{"partsData":[{"partName":"CentrifugeBase","partNumber":"PlaceHolder for base"},{"partName":"CentrifugeLid","partNumber":"PlaceHolder for lid"},{"partName":"CircuitBoardCentrifuge","partNumber":"PlaceHolder for circuit board"}]}
+{
+    "collection": [
+        {
+            "key": "Fitting Swagelok ferruleback 1/8 in",
+            "code": "00101-02500",
+            "item": "Fitting Swagelok ferruleback 1/8 in"
+        },
+        {
+            "key": "Fitting Swagelok ferruleback 1/4 in",
+            "code": "00101-04000",
+            "item": "Fitting Swagelok ferruleback 1/4 in"
+        },
+        {
+            "key": "front ferrule 1/16\"SS-103-1",
+            "code": "00101-08-00001",
+            "item": "front ferrule 1/16\"SS-103-1"
+        },
+        {
+            "key": "back ferrule 1/16\"SS-104-1",
+            "code": "00101-08-00002",
+            "item": "back ferrule 1/16\"SS-104-1"
+        },
+        {
+            "key": "Fitting Swagelok ferrulefront 1/8 in",
+            "code": "00101-08500",
+            "item": "Fitting Swagelok ferrulefront 1/8 in"
+        },
+        {
+            "key": "Fitting SwageloK ferrulefront 1/4in",
+            "code": "00101-10000",
+            "item": "Fitting SwageloK ferrulefront 1/4in"
+        },
+        {
+            "key": "Fitting SwageloK nut 1/4in",
+            "code": "00101-12500",
+            "item": "Fitting SwageloK nut 1/4in"
+        },
+        {
+            "key": "Fitting Swagelok ferrulenut 1/8 in",
+            "code": "00101-15500",
+            "item": "Fitting Swagelok ferrulenut 1/8 in"
+        },
+        {
+            "key": "LC union",
+            "code": "00101-18182",
+            "item": "LC union"
+        },
+        {
+            "key": "Fitting HPLC tee",
+            "code": "00101-18204",
+            "item": "Fitting HPLC tee"
+        },
+        {
+            "key": "Ion Gauge Assembly",
+            "code": "00105-01-00001",
+            "item": "Ion Gauge Assembly"
+        },
+        {
+            "key": "Convectron gauge for source",
+            "code": "00105-01-00002",
+            "item": "Convectron gauge for source"
+        },
+        {
+            "key": "Convectron gauge for Q2",
+            "code": "00105-01-00008",
+            "item": "Convectron gauge for Q2"
+        },
+        {
+            "key": "SRIG O-RING, 2-005, ID2.57 X W1.78",
+            "code": "00107-01-00178",
+            "item": "SRIG O-RING, 2-005, ID2.57 X W1.78"
+        },
+        {
+            "key": "O-ring 0.125 ID 1/16 th VI",
+            "code": "00107-02550",
+            "item": "O-ring 0.125 ID 1/16 th VI"
+        },
+        {
+            "key": "Turbomolecular pump cartridge",
+            "code": "00108-01-00024",
+            "item": "Turbomolecular pump cartridge"
+        },
+        {
+            "key": "Turbomolecular pump controller",
+            "code": "00108-01-00033",
+            "item": "Turbomolecular pump controller"
+        },
+        {
+            "key": "NW32 / 40 swing clamp",
+            "code": "00108-02-00004",
+            "item": "NW32 / 40 swing clamp"
+        },
+        {
+            "key": "NW40 centering ring",
+            "code": "00108-02-00005",
+            "item": "NW40 centering ring"
+        },
+        {
+            "key": "LC column, 20x2.1 mm, 1.9um",
+            "code": "00109-01-00013",
+            "item": "LC column, 20x2.1 mm, 1.9um"
+        },
+        {
+            "key": "ACC. VALCO 5UL SAMP LOOPSS",
+            "code": "00109-99-00007",
+            "item": "ACC. VALCO 5UL SAMP LOOPSS"
+        },
+        {
+            "key": "Fitting one piece, F-102X,Upchruch, 6ea",
+            "code": "00109-99-00016",
+            "item": "Fitting one piece, F-102X,Upchruch, 6ea"
+        },
+        {
+            "key": "Syringe driver",
+            "code": "00109-99-00045",
+            "item": "Syringe driver"
+        },
+        {
+            "key": "Divert valve",
+            "code": "00109-99-00046",
+            "item": "Divert valve"
+        },
+        {
+            "key": "Viper kit",
+            "code": "00109-99-00068",
+            "item": "Viper kit"
+        },
+        {
+            "key": "Needle port, PEEK, Rheodyne",
+            "code": "00110-22030",
+            "item": "Needle port, PEEK, Rheodyne"
+        },
+        {
+            "key": "Syringe 500 uL, Gas tight",
+            "code": "00301-19016",
+            "item": "Syringe 500 uL, Gas tight"
+        },
+        {
+            "key": "Tubing 1/8 in x 0,030 incopper (for argon)",
+            "code": "00301-22701",
+            "item": "Tubing 1/8 in x 0,030 incopper (for argon)"
+        },
+        {
+            "key": "Tubing PEEK,0.0005 inch,ID 1/16 inch, OD,red,10ft",
+            "code": "00301-22912",
+            "item": "Tubing PEEK,0.0005 inch,ID 1/16 inch, OD,red,10ft"
+        },
+        {
+            "key": "Electron multiplier, MSAF633, HYPERION, RoHS",
+            "code": "00950-01-00442",
+            "item": "Electron multiplier, MSAF633, HYPERION, RoHS"
+        },
+        {
+            "key": "Alconox Liquinox cleaning liquid",
+            "code": "11789679",
+            "item": "Alconox Liquinox cleaning liquid"
+        },
+        {
+            "key": "Leybol LVO 700",
+            "code": "12L70001",
+            "item": "Leybol LVO 700"
+        },
+        {
+            "key": "Methanol (1 litre/order)",
+            "code": "14262-1L",
+            "item": "Methanol (1 litre/order)"
+        },
+        {
+            "key": "Formic Acid",
+            "code": "28905",
+            "item": "Formic Acid"
+        },
+        {
+            "key": "Water",
+            "code": "39253-1L-R",
+            "item": "Water"
+        },
+        {
+            "key": "Viper Cap., IDxL 0,13mmx150mm PEEK",
+            "code": "6041.5616",
+            "item": "Viper Cap., IDxL 0,13mmx150mm PEEK"
+        },
+        {
+            "key": "Distribution PCB",
+            "code": "65000-61002R",
+            "item": "Distribution PCB"
+        },
+        {
+            "key": "Heater Control Cable",
+            "code": "65000-63021",
+            "item": "Heater Control Cable"
+        },
+        {
+            "key": "LC Valve Control Cable, CH 1",
+            "code": "65000-63035",
+            "item": "LC Valve Control Cable, CH 1"
+        },
+        {
+            "key": "LC Valve Control Cable, CH 2",
+            "code": "65000-63036",
+            "item": "LC Valve Control Cable, CH 2"
+        },
+        {
+            "key": "Pump Control Cable Assy",
+            "code": "65000-63037",
+            "item": "Pump Control Cable Assy"
+        },
+        {
+            "key": "Contact Close Cable",
+            "code": "65000-63038",
+            "item": "Contact Close Cable"
+        },
+        {
+            "key": "Pump Power Cable Assy CH2",
+            "code": "65000-63040",
+            "item": "Pump Power Cable Assy CH2"
+        },
+        {
+            "key": "Switch assembly",
+            "code": "65000-63060",
+            "item": "Switch assembly"
+        },
+        {
+            "key": "Pump Power Cable Assy CH1",
+            "code": "65000-63070",
+            "item": "Pump Power Cable Assy CH1"
+        },
+        {
+            "key": "Ion transfer tube",
+            "code": "70005-20606",
+            "item": "Ion transfer tube"
+        },
+        {
+            "key": "L0 removal tool",
+            "code": "70005-20900",
+            "item": "L0 removal tool"
+        },
+        {
+            "key": "Ion transfer tube removal tool",
+            "code": "70111-20258",
+            "item": "Ion transfer tube removal tool"
+        },
+        {
+            "key": "CID/Argon Valve PCB",
+            "code": "70111-61121R",
+            "item": "CID/Argon Valve PCB"
+        },
+        {
+            "key": "KIT, CLEANING, PM",
+            "code": "70111-62112",
+            "item": "KIT, CLEANING, PM"
+        },
+        {
+            "key": "CID gas valve",
+            "code": "70111-63096",
+            "item": "CID gas valve"
+        },
+        {
+            "key": "Swagelock with flow restrictor",
+            "code": "70111-98009",
+            "item": "Swagelock with flow restrictor"
+        },
+        {
+            "key": "8kV Power Supply",
+            "code": "70111-98277",
+            "item": "8kV Power Supply"
+        },
+        {
+            "key": "Exit lens",
+            "code": "80000-20218",
+            "item": "Exit lens"
+        },
+        {
+            "key": "Spray shield",
+            "code": "80000-20895",
+            "item": "Spray shield"
+        },
+        {
+            "key": "Tool, probe capillary length",
+            "code": "80000-20957",
+            "item": "Tool, probe capillary length"
+        },
+        {
+            "key": "PS2 Dual Power Supply Sled Assembly",
+            "code": "80000-60090",
+            "item": "PS2 Dual Power Supply Sled Assembly"
+        },
+        {
+            "key": "24V Power Supply Sled Assembly",
+            "code": "80000-60091",
+            "item": "24V Power Supply Sled Assembly"
+        },
+        {
+            "key": "Capillary Heater Assembly",
+            "code": "80000-60119",
+            "item": "Capillary Heater Assembly"
+        },
+        {
+            "key": "SRIG (S-Lens)",
+            "code": "80000-60136",
+            "item": "SRIG (S-Lens)"
+        },
+        {
+            "key": "4.5/12kV Dual Power Supply",
+            "code": "80000-60140",
+            "item": "4.5/12kV Dual Power Supply"
+        },
+        {
+            "key": "DC rod driver PCB assembly",
+            "code": "80000-60355",
+            "item": "DC rod driver PCB assembly"
+        },
+        {
+            "key": "Power Entry Module",
+            "code": "80000-60412",
+            "item": "Power Entry Module"
+        },
+        {
+            "key": "Ion Source PCB",
+            "code": "80000-60457",
+            "item": "Ion Source PCB"
+        },
+        {
+            "key": "CPU PCB",
+            "code": "80000-61010R",
+            "item": "CPU PCB"
+        },
+        {
+            "key": "Lens Power Supply PCB",
+            "code": "80000-61130R",
+            "item": "Lens Power Supply PCB"
+        },
+        {
+            "key": "Main RF control PCB",
+            "code": "80000-61210R",
+            "item": "Main RF control PCB"
+        },
+        {
+            "key": "Lens Driver Backplane PCB",
+            "code": "80000-61250R",
+            "item": "Lens Driver Backplane PCB"
+        },
+        {
+            "key": "Electrometer PCB",
+            "code": "80000-61260R",
+            "item": "Electrometer PCB"
+        },
+        {
+            "key": "Lens Driver PCB",
+            "code": "80000-61330R",
+            "item": "Lens Driver PCB"
+        },
+        {
+            "key": "Calibration Kit",
+            "code": "80000-62013",
+            "item": "Calibration Kit"
+        },
+        {
+            "key": "Lens back plane fan assembly",
+            "code": "80000-63129",
+            "item": "Lens back plane fan assembly"
+        },
+        {
+            "key": "Fan filter, front",
+            "code": "80100-20096",
+            "item": "Fan filter, front"
+        },
+        {
+            "key": "Lens L12",
+            "code": "80100-20239",
+            "item": "Lens L12"
+        },
+        {
+            "key": "Lens L11",
+            "code": "80100-20240",
+            "item": "Lens L11"
+        },
+        {
+            "key": "Lens L0",
+            "code": "80100-20548",
+            "item": "Lens L0"
+        },
+        {
+            "key": "IonVector interface",
+            "code": "80100-60024",
+            "item": "IonVector interface"
+        },
+        {
+            "key": "Power Distribution BoardAssembly",
+            "code": "80100-60030",
+            "item": "Power Distribution BoardAssembly"
+        },
+        {
+            "key": "MP0",
+            "code": "80100-60039",
+            "item": "MP0"
+        },
+        {
+            "key": "Q2",
+            "code": "80100-60044",
+            "item": "Q2"
+        },
+        {
+            "key": "Srig assembly",
+            "code": "80100-60083",
+            "item": "Srig assembly"
+        },
+        {
+            "key": "S-Lens RF Generator PCB (Endura)",
+            "code": "80100-60142",
+            "item": "S-Lens RF Generator PCB (Endura)"
+        },
+        {
+            "key": "Coil box assembly",
+            "code": "80100-60150",
+            "item": "Coil box assembly"
+        },
+        {
+            "key": "TK1 / L2",
+            "code": "80100-60153",
+            "item": "TK1 / L2"
+        },
+        {
+            "key": "ASSY, GAS BOX",
+            "code": "80100-60215",
+            "item": "ASSY, GAS BOX"
+        },
+        {
+            "key": "12kV/4.5kV/8kV Power Supply Assembly",
+            "code": "80100-60350",
+            "item": "12kV/4.5kV/8kV Power Supply Assembly"
+        },
+        {
+            "key": "RF Amplifier PCB Assembly (module)",
+            "code": "80100-60400",
+            "item": "RF Amplifier PCB Assembly (module)"
+        },
+        {
+            "key": "Source / Carrier PCB assembly",
+            "code": "80100-60500",
+            "item": "Source / Carrier PCB assembly"
+        },
+        {
+            "key": "Lens Driver Box Assembly(module)",
+            "code": "80100-60600",
+            "item": "Lens Driver Box Assembly(module)"
+        },
+        {
+            "key": "Q0/Q00 Ion Guide?PCB Assembly",
+            "code": "80100-60710",
+            "item": "Q0/Q00 Ion Guide?PCB Assembly"
+        },
+        {
+            "key": "Q2 Ion Guide?PCB Assembly",
+            "code": "80100-60720",
+            "item": "Q2 Ion Guide?PCB Assembly"
+        },
+        {
+            "key": "O-ring Kit",
+            "code": "80100-62010",
+            "item": "O-ring Kit"
+        },
+        {
+            "key": "Tool kit",
+            "code": "80100-62026",
+            "item": "Tool kit"
+        },
+        {
+            "key": "TSQ Reserpine solution kit",
+            "code": "80100-62033",
+            "item": "TSQ Reserpine solution kit"
+        },
+        {
+            "key": "Small Fan",
+            "code": "80100-63113",
+            "item": "Small Fan"
+        },
+        {
+            "key": "Large Fan (with cable attachment)",
+            "code": "80100-63114",
+            "item": "Large Fan (with cable attachment)"
+        },
+        {
+            "key": "Chassis cooling fans forRF coils",
+            "code": "80100-63118",
+            "item": "Chassis cooling fans forRF coils"
+        },
+        {
+            "key": "Cable ASSY, SRIG OUTPUT",
+            "code": "80100-63200",
+            "item": "Cable ASSY, SRIG OUTPUT"
+        },
+        {
+            "key": "INSERT, SOURCE DRAIN",
+            "code": "80111-22121",
+            "item": "INSERT, SOURCE DRAIN"
+        },
+        {
+            "key": "ASSY,NOZZLE,HESI NEBULIZER (optamax)",
+            "code": "80111-60321",
+            "item": "ASSY,NOZZLE,HESI NEBULIZER (optamax)"
+        },
+        {
+            "key": "Assy, Source HESI/APCI, COMBI NOZZLE",
+            "code": "80111-60470",
+            "item": "Assy, Source HESI/APCI, COMBI NOZZLE"
+        },
+        {
+            "key": "Kit, O-RING,Q1/Q3 LID",
+            "code": "80111-62054",
+            "item": "Kit, O-RING,Q1/Q3 LID"
+        },
+        {
+            "key": "Reserpine MS standard",
+            "code": "88326",
+            "item": "Reserpine MS standard"
+        },
+        {
+            "key": "O-ring seal for ion transfer tube",
+            "code": "97055-20442",
+            "item": "O-ring seal for ion transfer tube"
+        },
+        {
+            "key": "Vent valve",
+            "code": "97055-60084",
+            "item": "Vent valve"
+        },
+        {
+            "key": "AWLI 10x5ml",
+            "code": "97622",
+            "item": "AWLI 10x5ml"
+        },
+        {
+            "key": "6 months PM kit (SM Analyzer)",
+            "code": "CSP00020",
+            "item": "6 months PM kit (SM Analyzer)"
+        },
+        {
+            "key": "12 months PM kit (SM Analyzer)",
+            "code": "CSP00021",
+            "item": "12 months PM kit (SM Analyzer)"
+        },
+        {
+            "key": "Service Cartridge",
+            "code": "CSP00743",
+            "item": "Service Cartridge"
+        },
+        {
+            "key": "Oil mist filter",
+            "code": "CSP00781",
+            "item": "Oil mist filter"
+        },
+        {
+            "key": "Cap Tube Set",
+            "code": "CSP00933",
+            "item": "Cap Tube Set"
+        },
+        {
+            "key": "Quick connect clamp kit with fittings",
+            "code": "CSP00944",
+            "item": "Quick connect clamp kit with fittings"
+        },
+        {
+            "key": "Cascadion analyzer IQ kit",
+            "code": "CSP00963",
+            "item": "Cascadion analyzer IQ kit"
+        },
+        {
+            "key": "Cascadion analyzer OQ kit",
+            "code": "CSP00964",
+            "item": "Cascadion analyzer OQ kit"
+        },
+        {
+            "key": "Heater cover assembly",
+            "code": "CSP00968",
+            "item": "Heater cover assembly"
+        },
+        {
+            "key": "Graduated Cylinder with Stopper",
+            "code": "CSP00969",
+            "item": "Graduated Cylinder with Stopper"
+        },
+        {
+            "key": "Short Stem Glass Funnel",
+            "code": "CSP00970",
+            "item": "Short Stem Glass Funnel"
+        },
+        {
+            "key": "Class A Volumetric Flasks with Hollow Glass Stoppe",
+            "code": "CSP00971",
+            "item": "Class A Volumetric Flasks with Hollow Glass Stoppe"
+        },
+        {
+            "key": "Sample tubes, 16x100mm",
+            "code": "CSP00973",
+            "item": "Sample tubes, 16x100mm"
+        },
+        {
+            "key": "Plastic Transfer Pipettes 3mL",
+            "code": "CSP00974",
+            "item": "Plastic Transfer Pipettes 3mL"
+        },
+        {
+            "key": "LowForm Glass Beakers With Spout 100mL",
+            "code": "CSP00975",
+            "item": "LowForm Glass Beakers With Spout 100mL"
+        },
+        {
+            "key": "Super Duty Glass BeakersWith Spout 250mL",
+            "code": "CSP00978",
+            "item": "Super Duty Glass BeakersWith Spout 250mL"
+        },
+        {
+            "key": "Adjustment jig set, kit",
+            "code": "CSP00980",
+            "item": "Adjustment jig set, kit"
+        },
+        {
+            "key": "Elbow 1/8\" BSPPx6mm pushfit",
+            "code": "CSP00983",
+            "item": "Elbow 1/8\" BSPPx6mm pushfit"
+        },
+        {
+            "key": "30mL amber glass vials",
+            "code": "CSP00984",
+            "item": "30mL amber glass vials"
+        },
+        {
+            "key": "Plastic Transfer Pipettes 3mL, (bag of 5 PCS)",
+            "code": "CSP00986",
+            "item": "Plastic Transfer Pipettes 3mL, (bag of 5 PCS)"
+        },
+        {
+            "key": "Sample tubes, 16x100mm, (bag of 2 PCS)",
+            "code": "CSP00987",
+            "item": "Sample tubes, 16x100mm, (bag of 2 PCS)"
+        },
+        {
+            "key": "LowForm Glass Beakers With Spout 100mL, (bag of 2",
+            "code": "CSP00988",
+            "item": "LowForm Glass Beakers With Spout 100mL, (bag of 2"
+        },
+        {
+            "key": "Super Duty Glass BeakersWith Spout 250mL (bag of",
+            "code": "CSP00989",
+            "item": "Super Duty Glass BeakersWith Spout 250mL (bag of"
+        },
+        {
+            "key": "30mL amber glass vials (bag of 5 PCS)",
+            "code": "CSP00990",
+            "item": "30mL amber glass vials (bag of 5 PCS)"
+        },
+        {
+            "key": "AWLI (code for 1x5mL ampoule)",
+            "code": "CSP01017",
+            "item": "AWLI (code for 1x5mL ampoule)"
+        },
+        {
+            "key": "Field upgrade kit 01/18",
+            "code": "CSP01028",
+            "item": "Field upgrade kit 01/18"
+        },
+        {
+            "key": "Tip cone with holder",
+            "code": "CSP01033",
+            "item": "Tip cone with holder"
+        },
+        {
+            "key": "Centrifuge fuse 4A-250v",
+            "code": "CSP01035",
+            "item": "Centrifuge fuse 4A-250v"
+        },
+        {
+            "key": "Solvent reservoir (1 bottle)",
+            "code": "CSP01050",
+            "item": "Solvent reservoir (1 bottle)"
+        },
+        {
+            "key": "Mountz TB silver 20-50 torque wrench",
+            "code": "CSP01056",
+            "item": "Mountz TB silver 20-50 torque wrench"
+        },
+        {
+            "key": "Mountz TLS PRO 150 - standard torque wrench 0.2-1.",
+            "code": "CSP01057",
+            "item": "Mountz TLS PRO 150 - standard torque wrench 0.2-1."
+        },
+        {
+            "key": "Mountz TB Gold 3-12 torque wrench",
+            "code": "CSP01058",
+            "item": "Mountz TB Gold 3-12 torque wrench"
+        },
+        {
+            "key": "Tubing ID OD 6 PE, 00-1282 L=2030",
+            "code": "CSP01282",
+            "item": "Tubing ID OD 6 PE, 00-1282 L=2030"
+        },
+        {
+            "key": "Tubing 6mm OD x 4mm ID polyolefin",
+            "code": "CSP01292",
+            "item": "Tubing 6mm OD x 4mm ID polyolefin"
+        },
+        {
+            "key": "Filter element 0.01 micron",
+            "code": "CSP04424",
+            "item": "Filter element 0.01 micron"
+        },
+        {
+            "key": "Filter element RAC",
+            "code": "CSP04425",
+            "item": "Filter element RAC"
+        },
+        {
+            "key": "Filter cap, normal acting",
+            "code": "CSP04430",
+            "item": "Filter cap, normal acting"
+        },
+        {
+            "key": "Filter 0.01 Micron MetalBowl",
+            "code": "CSP05431",
+            "item": "Filter 0.01 Micron MetalBowl"
+        },
+        {
+            "key": "Stepper motor with encoder 56mmx56mm",
+            "code": "CSP05966",
+            "item": "Stepper motor with encoder 56mmx56mm"
+        },
+        {
+            "key": "Vessel Adapter",
+            "code": "CSP07656",
+            "item": "Vessel Adapter"
+        },
+        {
+            "key": "SURF4 PCB",
+            "code": "CSP08334",
+            "item": "SURF4 PCB"
+        },
+        {
+            "key": "Ferrite Toroid EMC",
+            "code": "CSP08659",
+            "item": "Ferrite Toroid EMC"
+        },
+        {
+            "key": "Sensor Capasitive",
+            "code": "CSP09004",
+            "item": "Sensor Capasitive"
+        },
+        {
+            "key": "Round belt",
+            "code": "CSP09094",
+            "item": "Round belt"
+        },
+        {
+            "key": "Vessel Station",
+            "code": "CSP09214",
+            "item": "Vessel Station"
+        },
+        {
+            "key": "Cooling unit",
+            "code": "CSP09215",
+            "item": "Cooling unit"
+        },
+        {
+            "key": "Temperature Control Unit",
+            "code": "CSP09221",
+            "item": "Temperature Control Unit"
+        },
+        {
+            "key": "Vessel disk assembly",
+            "code": "CSP09237",
+            "item": "Vessel disk assembly"
+        },
+        {
+            "key": "Injector valve assembly",
+            "code": "CSP09247",
+            "item": "Injector valve assembly"
+        },
+        {
+            "key": "LC Valve control board",
+            "code": "CSP09268",
+            "item": "LC Valve control board"
+        },
+        {
+            "key": "Tip Drawer",
+            "code": "CSP09269",
+            "item": "Tip Drawer"
+        },
+        {
+            "key": "Sensor Assembly",
+            "code": "CSP09294",
+            "item": "Sensor Assembly"
+        },
+        {
+            "key": "Filter Assembly 3,2 OD (A-550)",
+            "code": "CSP09309",
+            "item": "Filter Assembly 3,2 OD (A-550)"
+        },
+        {
+            "key": "Waste Tray Assembly",
+            "code": "CSP09323",
+            "item": "Waste Tray Assembly"
+        },
+        {
+            "key": "Wash solution tray slide",
+            "code": "CSP09356",
+            "item": "Wash solution tray slide"
+        },
+        {
+            "key": "Liquid Waste Sensor Assembly",
+            "code": "CSP09374",
+            "item": "Liquid Waste Sensor Assembly"
+        },
+        {
+            "key": "Waste Container Sensor Assembly",
+            "code": "CSP09379",
+            "item": "Waste Container Sensor Assembly"
+        },
+        {
+            "key": "Solid Waste Ultrasonic Sensor Assembly",
+            "code": "CSP09380",
+            "item": "Solid Waste Ultrasonic Sensor Assembly"
+        },
+        {
+            "key": "Belt fastener T2.5",
+            "code": "CSP09401",
+            "item": "Belt fastener T2.5"
+        },
+        {
+            "key": "Sample Robot connection plate X axis",
+            "code": "CSP09415",
+            "item": "Sample Robot connection plate X axis"
+        },
+        {
+            "key": "Vessel Robot connection plate X-axis",
+            "code": "CSP09416",
+            "item": "Vessel Robot connection plate X-axis"
+        },
+        {
+            "key": "Sample robot assembly",
+            "code": "CSP09429",
+            "item": "Sample robot assembly"
+        },
+        {
+            "key": "Y-belt connection plate",
+            "code": "CSP09441",
+            "item": "Y-belt connection plate"
+        },
+        {
+            "key": "Z-belt connection plate",
+            "code": "CSP09462",
+            "item": "Z-belt connection plate"
+        },
+        {
+            "key": "Injector robot assembly",
+            "code": "CSP09496",
+            "item": "Injector robot assembly"
+        },
+        {
+            "key": "Vessel gripper assembly",
+            "code": "CSP09507",
+            "item": "Vessel gripper assembly"
+        },
+        {
+            "key": "Vessel robot assembly",
+            "code": "CSP09510",
+            "item": "Vessel robot assembly"
+        },
+        {
+            "key": "Solvent Bottle Scale Sensor Assembly",
+            "code": "CSP09530",
+            "item": "Solvent Bottle Scale Sensor Assembly"
+        },
+        {
+            "key": "Bottle Base 1000",
+            "code": "CSP09532",
+            "item": "Bottle Base 1000"
+        },
+        {
+            "key": "Solvent Bottle Scale Assembly",
+            "code": "CSP09563",
+            "item": "Solvent Bottle Scale Assembly"
+        },
+        {
+            "key": "Membrane pump for solvents",
+            "code": "CSP09669",
+            "item": "Membrane pump for solvents"
+        },
+        {
+            "key": "Monitor arm assembly",
+            "code": "CSP09671",
+            "item": "Monitor arm assembly"
+        },
+        {
+            "key": "Injector valve",
+            "code": "CSP09694",
+            "item": "Injector valve"
+        },
+        {
+            "key": "Transformer Assembly",
+            "code": "CSP09717",
+            "item": "Transformer Assembly"
+        },
+        {
+            "key": "Fuse Box Assembly",
+            "code": "CSP09726",
+            "item": "Fuse Box Assembly"
+        },
+        {
+            "key": "Power Supply Assembly",
+            "code": "CSP09737",
+            "item": "Power Supply Assembly"
+        },
+        {
+            "key": "Robotics tube guide",
+            "code": "CSP09744",
+            "item": "Robotics tube guide"
+        },
+        {
+            "key": "Keyboard Drawer Assembly",
+            "code": "CSP09762",
+            "item": "Keyboard Drawer Assembly"
+        },
+        {
+            "key": "KOMP.LEVY CANUSB4 BOARD CANUSB4",
+            "code": "CSP09853",
+            "item": "KOMP.LEVY CANUSB4 BOARD CANUSB4"
+        },
+        {
+            "key": "Waste Container Collar",
+            "code": "CSP09862",
+            "item": "Waste Container Collar"
+        },
+        {
+            "key": "Probe Wash Solution Tray",
+            "code": "CSP09868",
+            "item": "Probe Wash Solution Tray"
+        },
+        {
+            "key": "MS Waste container",
+            "code": "CSP09874",
+            "item": "MS Waste container"
+        },
+        {
+            "key": "Syringe Assembly 10ml",
+            "code": "CSP09886",
+            "item": "Syringe Assembly 10ml"
+        },
+        {
+            "key": "Centrifuge Complete",
+            "code": "CSP09927",
+            "item": "Centrifuge Complete"
+        },
+        {
+            "key": "Vessel Disk Assembly 1",
+            "code": "CSP10040",
+            "item": "Vessel Disk Assembly 1"
+        },
+        {
+            "key": "Vessel Disk Assembly Injector",
+            "code": "CSP10042",
+            "item": "Vessel Disk Assembly Injector"
+        },
+        {
+            "key": "Tip drawer touch releaseslide",
+            "code": "CSP10049",
+            "item": "Tip drawer touch releaseslide"
+        },
+        {
+            "key": "Cooling Fan 120",
+            "code": "CSP10052",
+            "item": "Cooling Fan 120"
+        },
+        {
+            "key": "LC Pump Module",
+            "code": "CSP10059",
+            "item": "LC Pump Module"
+        },
+        {
+            "key": "Fluid Transfer Assembly,Sample Robot",
+            "code": "CSP10063",
+            "item": "Fluid Transfer Assembly,Sample Robot"
+        },
+        {
+            "key": "Fluid Transfer Assembly,Injector Robot",
+            "code": "CSP10064",
+            "item": "Fluid Transfer Assembly,Injector Robot"
+        },
+        {
+            "key": "Belt Sample robot X-axis",
+            "code": "CSP10085",
+            "item": "Belt Sample robot X-axis"
+        },
+        {
+            "key": "Belt Vessel robot X-axis",
+            "code": "CSP10086",
+            "item": "Belt Vessel robot X-axis"
+        },
+        {
+            "key": "Belt Sample robot Y-axis",
+            "code": "CSP10087",
+            "item": "Belt Sample robot Y-axis"
+        },
+        {
+            "key": "Belt Sample robot Z-axis",
+            "code": "CSP10088",
+            "item": "Belt Sample robot Z-axis"
+        },
+        {
+            "key": "Belt Injector Z-axis",
+            "code": "CSP10090",
+            "item": "Belt Injector Z-axis"
+        },
+        {
+            "key": "Belt Vessel robot Y-axis",
+            "code": "CSP10091",
+            "item": "Belt Vessel robot Y-axis"
+        },
+        {
+            "key": "Belt Vessel robot Z-axis",
+            "code": "CSP10092",
+            "item": "Belt Vessel robot Z-axis"
+        },
+        {
+            "key": "Cover Actuator Assembly",
+            "code": "CSP10097",
+            "item": "Cover Actuator Assembly"
+        },
+        {
+            "key": "Temperature Controller Assembly",
+            "code": "CSP10107",
+            "item": "Temperature Controller Assembly"
+        },
+        {
+            "key": "Board Heater Control",
+            "code": "CSP10122",
+            "item": "Board Heater Control"
+        },
+        {
+            "key": "USB Hub, 4 Port, 00825-01-00110",
+            "code": "CSP10123",
+            "item": "USB Hub, 4 Port, 00825-01-00110"
+        },
+        {
+            "key": "Pressure Transducer, 00202-99-00122",
+            "code": "CSP10125",
+            "item": "Pressure Transducer, 00202-99-00122"
+        },
+        {
+            "key": "Syringe Assembly 500 ul",
+            "code": "CSP10130",
+            "item": "Syringe Assembly 500 ul"
+        },
+        {
+            "key": "Stailess Steel Ferrule for 1/16\" OD Tubing (U-401)",
+            "code": "CSP10150",
+            "item": "Stailess Steel Ferrule for 1/16\" OD Tubing (U-401)"
+        },
+        {
+            "key": "Column Selector Valve 1,00110-03-00027",
+            "code": "CSP10180",
+            "item": "Column Selector Valve 1,00110-03-00027"
+        },
+        {
+            "key": "Column Selector Valve 2,00110-03-00028",
+            "code": "CSP10182",
+            "item": "Column Selector Valve 2,00110-03-00028"
+        },
+        {
+            "key": "Cord USB A-B 0.83m",
+            "code": "CSP10194",
+            "item": "Cord USB A-B 0.83m"
+        },
+        {
+            "key": "Connector 4-port",
+            "code": "CSP10203",
+            "item": "Connector 4-port"
+        },
+        {
+            "key": "Tee Fitting Body, 10-32 (U-429-01)",
+            "code": "CSP10241",
+            "item": "Tee Fitting Body, 10-32 (U-429-01)"
+        },
+        {
+            "key": "Cross Fitting Body, 10-32 (U-431-01)",
+            "code": "CSP10252",
+            "item": "Cross Fitting Body, 10-32 (U-431-01)"
+        },
+        {
+            "key": "Plug for 10-32 Coned Ports (P-520)",
+            "code": "CSP10261",
+            "item": "Plug for 10-32 Coned Ports (P-520)"
+        },
+        {
+            "key": "LC High Pressure Tubing Set",
+            "code": "CSP10262",
+            "item": "LC High Pressure Tubing Set"
+        },
+        {
+            "key": "LC Low Pressure Tubing Set",
+            "code": "CSP10321",
+            "item": "LC Low Pressure Tubing Set"
+        },
+        {
+            "key": "Solvent reservoir (Box of 10 bottles)",
+            "code": "CSP10343",
+            "item": "Solvent reservoir (Box of 10 bottles)"
+        },
+        {
+            "key": "O-ring 5,28x1,78 EPDM",
+            "code": "CSP10361",
+            "item": "O-ring 5,28x1,78 EPDM"
+        },
+        {
+            "key": "Gripper",
+            "code": "CSP10366",
+            "item": "Gripper"
+        },
+        {
+            "key": "Injector Wash Basin",
+            "code": "CSP10393",
+            "item": "Injector Wash Basin"
+        },
+        {
+            "key": "Tip drawer latch",
+            "code": "CSP10719",
+            "item": "Tip drawer latch"
+        },
+        {
+            "key": "500uL Syringe UNF",
+            "code": "CSP10953",
+            "item": "500uL Syringe UNF"
+        },
+        {
+            "key": "Tube holder foam",
+            "code": "CSP11058",
+            "item": "Tube holder foam"
+        },
+        {
+            "key": "Probe Cascadion",
+            "code": "CSP11094",
+            "item": "Probe Cascadion"
+        },
+        {
+            "key": "Pressure Sensor 1/4 threads",
+            "code": "CSP11266",
+            "item": "Pressure Sensor 1/4 threads"
+        },
+        {
+            "key": "Vessel Jig Set",
+            "code": "CSP11291",
+            "item": "Vessel Jig Set"
+        },
+        {
+            "key": "Wash basin jig",
+            "code": "CSP11296",
+            "item": "Wash basin jig"
+        },
+        {
+            "key": "Vessel gripper probe",
+            "code": "CSP11299",
+            "item": "Vessel gripper probe"
+        },
+        {
+            "key": "Sample compartment jig",
+            "code": "CSP11301",
+            "item": "Sample compartment jig"
+        },
+        {
+            "key": "Outlet Check Valve 3 psi",
+            "code": "CSP11497",
+            "item": "Outlet Check Valve 3 psi"
+        },
+        {
+            "key": "Cover Heater",
+            "code": "CSP11665",
+            "item": "Cover Heater"
+        },
+        {
+            "key": "Tip tray jig",
+            "code": "CSP11852",
+            "item": "Tip tray jig"
+        },
+        {
+            "key": "Motor5 PCB",
+            "code": "CSP12596",
+            "item": "Motor5 PCB"
+        },
+        {
+            "key": "IO5RACK1 PCB",
+            "code": "CSP12680",
+            "item": "IO5RACK1 PCB"
+        },
+        {
+            "key": "IO5RACK2 PCB",
+            "code": "CSP12791",
+            "item": "IO5RACK2 PCB"
+        },
+        {
+            "key": "Monitor Arm Assembly",
+            "code": "CSP12843",
+            "item": "Monitor Arm Assembly"
+        },
+        {
+            "key": "IO5SU PCB",
+            "code": "CSP12970",
+            "item": "IO5SU PCB"
+        },
+        {
+            "key": "Lock Lever, Main Cover",
+            "code": "CSP13036",
+            "item": "Lock Lever, Main Cover"
+        },
+        {
+            "key": "Probe Tube Assembly",
+            "code": "CSP13090",
+            "item": "Probe Tube Assembly"
+        },
+        {
+            "key": "Wash basin",
+            "code": "CSP13102",
+            "item": "Wash basin"
+        },
+        {
+            "key": "Vacuum tube assembly",
+            "code": "CSP13103",
+            "item": "Vacuum tube assembly"
+        },
+        {
+            "key": "Fuse5 PCB",
+            "code": "CSP13106",
+            "item": "Fuse5 PCB"
+        },
+        {
+            "key": "Stepper motor with encoder 42mmx42mm",
+            "code": "CSP13129",
+            "item": "Stepper motor with encoder 42mmx42mm"
+        },
+        {
+            "key": "Gas Spring 12-4 50N",
+            "code": "CSP13208",
+            "item": "Gas Spring 12-4 50N"
+        },
+        {
+            "key": "Liquid waste container sensor",
+            "code": "CSP13238",
+            "item": "Liquid waste container sensor"
+        },
+        {
+            "key": "MS waste container sensor",
+            "code": "CSP13239",
+            "item": "MS waste container sensor"
+        },
+        {
+            "key": "Tip tray sensor 1",
+            "code": "CSP13266",
+            "item": "Tip tray sensor 1"
+        },
+        {
+            "key": "Tip tray sensor 2",
+            "code": "CSP13267",
+            "item": "Tip tray sensor 2"
+        },
+        {
+            "key": "Tip tray sensor 3",
+            "code": "CSP13268",
+            "item": "Tip tray sensor 3"
+        },
+        {
+            "key": "Tip tray sensor 4",
+            "code": "CSP13269",
+            "item": "Tip tray sensor 4"
+        },
+        {
+            "key": "Tip drawer sensor",
+            "code": "CSP13270",
+            "item": "Tip drawer sensor"
+        },
+        {
+            "key": "Probe holder",
+            "code": "CSP13343",
+            "item": "Probe holder"
+        },
+        {
+            "key": "Index sensor 1",
+            "code": "CSP13367",
+            "item": "Index sensor 1"
+        },
+        {
+            "key": "Probe holder with guide",
+            "code": "CSP13376",
+            "item": "Probe holder with guide"
+        },
+        {
+            "key": "Conn5RX connection PCB",
+            "code": "CSP13385",
+            "item": "Conn5RX connection PCB"
+        },
+        {
+            "key": "Conn5RY connection PCB",
+            "code": "CSP13386",
+            "item": "Conn5RY connection PCB"
+        },
+        {
+            "key": "Conn5SE component board",
+            "code": "CSP13387",
+            "item": "Conn5SE component board"
+        },
+        {
+            "key": "Conn5SX connection PCB",
+            "code": "CSP13388",
+            "item": "Conn5SX connection PCB"
+        },
+        {
+            "key": "Connector 3-port",
+            "code": "CSP13389",
+            "item": "Connector 3-port"
+        },
+        {
+            "key": "Wash bottle scale sensor",
+            "code": "CSP13398",
+            "item": "Wash bottle scale sensor"
+        },
+        {
+            "key": "IO5MP PCB",
+            "code": "CSP13409",
+            "item": "IO5MP PCB"
+        },
+        {
+            "key": "CONN5SC Component PCB",
+            "code": "CSP13413",
+            "item": "CONN5SC Component PCB"
+        },
+        {
+            "key": "Connector MAINS Inlet C20 UL/CSA",
+            "code": "CSP13417",
+            "item": "Connector MAINS Inlet C20 UL/CSA"
+        },
+        {
+            "key": "Circuit breaker 20A 240 VAC Rocker 2-pol",
+            "code": "CSP13419",
+            "item": "Circuit breaker 20A 240 VAC Rocker 2-pol"
+        },
+        {
+            "key": "Cooling unit power distribution PCB",
+            "code": "CSP13434",
+            "item": "Cooling unit power distribution PCB"
+        },
+        {
+            "key": "IO5LC PCBA",
+            "code": "CSP13468",
+            "item": "IO5LC PCBA"
+        },
+        {
+            "key": "Connector MAINS Outlet C19",
+            "code": "CSP13474",
+            "item": "Connector MAINS Outlet C19"
+        },
+        {
+            "key": "100µl FMI-pump assembly",
+            "code": "CSP13475",
+            "item": "100µl FMI-pump assembly"
+        },
+        {
+            "key": "In-Line Check Valve (40-4633-01)",
+            "code": "CSP13480",
+            "item": "In-Line Check Valve (40-4633-01)"
+        },
+        {
+            "key": "LC-unit power distribution cable",
+            "code": "CSP13484",
+            "item": "LC-unit power distribution cable"
+        },
+        {
+            "key": "LC power jumper cable",
+            "code": "CSP13492",
+            "item": "LC power jumper cable"
+        },
+        {
+            "key": "USB Card block.",
+            "code": "CSP13495",
+            "item": "USB Card block."
+        },
+        {
+            "key": "Syringe 10ml decapper",
+            "code": "CSP13496",
+            "item": "Syringe 10ml decapper"
+        },
+        {
+            "key": "Valve power wire",
+            "code": "CSP13546",
+            "item": "Valve power wire"
+        },
+        {
+            "key": "Ethernet switch 5 port",
+            "code": "CSP13562",
+            "item": "Ethernet switch 5 port"
+        },
+        {
+            "key": "Centrifuge control cable",
+            "code": "CSP13563",
+            "item": "Centrifuge control cable"
+        },
+        {
+            "key": "Shaker",
+            "code": "CSP13572",
+            "item": "Shaker"
+        },
+        {
+            "key": "Centrifuge electronics",
+            "code": "CSP13586",
+            "item": "Centrifuge electronics"
+        },
+        {
+            "key": "Centrifuge Rotor",
+            "code": "CSP13587",
+            "item": "Centrifuge Rotor"
+        },
+        {
+            "key": "OPTO5P Component board",
+            "code": "CSP13860",
+            "item": "OPTO5P Component board"
+        },
+        {
+            "key": "Cover sensor extension cable",
+            "code": "CSP13888",
+            "item": "Cover sensor extension cable"
+        },
+        {
+            "key": "Injector port",
+            "code": "CSP13912",
+            "item": "Injector port"
+        },
+        {
+            "key": "Reagent compartment adapter",
+            "code": "CSP13951",
+            "item": "Reagent compartment adapter"
+        },
+        {
+            "key": "Washing cup jig",
+            "code": "CSP14082",
+            "item": "Washing cup jig"
+        },
+        {
+            "key": "USB HUB power cable",
+            "code": "CSP14085",
+            "item": "USB HUB power cable"
+        },
+        {
+            "key": "Liquid Waste Tube Set",
+            "code": "CSP14114",
+            "item": "Liquid Waste Tube Set"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 15 cm (T",
+            "code": "CSP14115",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 15 cm (T"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 30 cm (U",
+            "code": "CSP14117",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 30 cm (U"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 50 cm (T",
+            "code": "CSP14119",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 50 cm (T"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 70 cm (T",
+            "code": "CSP14121",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.005\" ID, 70 cm (T"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 10 cm (U-",
+            "code": "CSP14122",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 10 cm (U-"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 15 cm (TS",
+            "code": "CSP14123",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 15 cm (TS"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 20 cm (U-",
+            "code": "CSP14124",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 20 cm (U-"
+        },
+        {
+            "key": "Stainless Steel Fitting for 1/16\" Tubing (6000-211",
+            "code": "CSP14126",
+            "item": "Stainless Steel Fitting for 1/16\" Tubing (6000-211"
+        },
+        {
+            "key": "Stainless Steel Fitting Nut for 1/16\" OD Tubing (U",
+            "code": "CSP14127",
+            "item": "Stainless Steel Fitting Nut for 1/16\" OD Tubing (U"
+        },
+        {
+            "key": "Stainless Steel Loop 100µL, 0.51mm (0.020\") ID x",
+            "code": "CSP14129",
+            "item": "Stainless Steel Loop 100µL, 0.51mm (0.020\") ID x"
+        },
+        {
+            "key": "Stainless Steel Loop 200µL, 0.76 mm (0.030\") ID x",
+            "code": "CSP14130",
+            "item": "Stainless Steel Loop 200µL, 0.76 mm (0.030\") ID x"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.040\" ID, 10 cm (U",
+            "code": "CSP14154",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.040\" ID, 10 cm (U"
+        },
+        {
+            "key": "Water Container Sensor Assembly",
+            "code": "CSP14901",
+            "item": "Water Container Sensor Assembly"
+        },
+        {
+            "key": "CONN5LC Component board",
+            "code": "CSP14965",
+            "item": "CONN5LC Component board"
+        },
+        {
+            "key": "TUBE5 PCB",
+            "code": "CSP14967",
+            "item": "TUBE5 PCB"
+        },
+        {
+            "key": "LC scale cable",
+            "code": "CSP15041",
+            "item": "LC scale cable"
+        },
+        {
+            "key": "LC tube sensor cable",
+            "code": "CSP15042",
+            "item": "LC tube sensor cable"
+        },
+        {
+            "key": "IO5LC control cable",
+            "code": "CSP15043",
+            "item": "IO5LC control cable"
+        },
+        {
+            "key": "LC2 control cable",
+            "code": "CSP15045",
+            "item": "LC2 control cable"
+        },
+        {
+            "key": "Ethernet switch power supply",
+            "code": "CSP15069",
+            "item": "Ethernet switch power supply"
+        },
+        {
+            "key": "SB-RIO 9612, PCB, 00950-01-00139",
+            "code": "CSP15102",
+            "item": "SB-RIO 9612, PCB, 00950-01-00139"
+        },
+        {
+            "key": "Cord USB A-B 2m",
+            "code": "CSP15104",
+            "item": "Cord USB A-B 2m"
+        },
+        {
+            "key": "Cord USB A-B 0,5m",
+            "code": "CSP15105",
+            "item": "Cord USB A-B 0,5m"
+        },
+        {
+            "key": "Grommet D25 d19 s1-3 SBR",
+            "code": "CSP15157",
+            "item": "Grommet D25 d19 s1-3 SBR"
+        },
+        {
+            "key": "Vacuum Pump SV65BI",
+            "code": "CSP15175",
+            "item": "Vacuum Pump SV65BI"
+        },
+        {
+            "key": "Roughing pump control cable",
+            "code": "CSP15324",
+            "item": "Roughing pump control cable"
+        },
+        {
+            "key": "Cord Mains 2,5m NEMA 6-20P - IEC320 C19",
+            "code": "CSP15382",
+            "item": "Cord Mains 2,5m NEMA 6-20P - IEC320 C19"
+        },
+        {
+            "key": "Cascadion touchscreen monitor",
+            "code": "CSP15456",
+            "item": "Cascadion touchscreen monitor"
+        },
+        {
+            "key": "Cord USB A-A 1,0m Extension",
+            "code": "CSP15491",
+            "item": "Cord USB A-A 1,0m Extension"
+        },
+        {
+            "key": "Stainless Steel ReusableFitting For 1/16\" OD Tubi",
+            "code": "CSP16259",
+            "item": "Stainless Steel ReusableFitting For 1/16\" OD Tubi"
+        },
+        {
+            "key": "Wash Tube Set A, 008TFF023",
+            "code": "CSP16460",
+            "item": "Wash Tube Set A, 008TFF023"
+        },
+        {
+            "key": "Wash Tube Set B, 008TFF024",
+            "code": "CSP16461",
+            "item": "Wash Tube Set B, 008TFF024"
+        },
+        {
+            "key": "Compression Latch 44-1-24-0",
+            "code": "CSP16473",
+            "item": "Compression Latch 44-1-24-0"
+        },
+        {
+            "key": "Accessory cabinet fan filter",
+            "code": "CSP16631",
+            "item": "Accessory cabinet fan filter"
+        },
+        {
+            "key": "Solvent Reservoir Tube Set",
+            "code": "CSP16747",
+            "item": "Solvent Reservoir Tube Set"
+        },
+        {
+            "key": "Frame Plate 25",
+            "code": "CSP16871",
+            "item": "Frame Plate 25"
+        },
+        {
+            "key": "Frame Plate 24",
+            "code": "CSP16872",
+            "item": "Frame Plate 24"
+        },
+        {
+            "key": "Fitting KQ2H07-02AP 1/4\"",
+            "code": "CSP17418",
+            "item": "Fitting KQ2H07-02AP 1/4\""
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 50 cm (U-",
+            "code": "CSP17493",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 50 cm (U-"
+        },
+        {
+            "key": "Bracket",
+            "code": "CSP17494",
+            "item": "Bracket"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 5 cm (U-1",
+            "code": "CSP174944",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 5 cm (U-1"
+        },
+        {
+            "key": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 70 cm (TS",
+            "code": "CSP17496",
+            "item": "Stainless Steel Tube 1/16\" OD, 0.01\" ID, 70 cm (TS"
+        },
+        {
+            "key": "Ball Valve 3-Way",
+            "code": "CSP17523",
+            "item": "Ball Valve 3-Way"
+        },
+        {
+            "key": "Flexible Tube DN-KF40, L=500",
+            "code": "CSP17562",
+            "item": "Flexible Tube DN-KF40, L=500"
+        },
+        {
+            "key": "Filter Mains FN2090-16-06 UL/CSA",
+            "code": "CSP17704",
+            "item": "Filter Mains FN2090-16-06 UL/CSA"
+        },
+        {
+            "key": "Module Power supply 24V 100W",
+            "code": "CSP17705",
+            "item": "Module Power supply 24V 100W"
+        },
+        {
+            "key": "Signal Tower Led Module LU7-E-Y (Amber)",
+            "code": "CSP17773",
+            "item": "Signal Tower Led Module LU7-E-Y (Amber)"
+        },
+        {
+            "key": "Signal Tower Led Module LU7-E-R (Red)",
+            "code": "CSP17774",
+            "item": "Signal Tower Led Module LU7-E-R (Red)"
+        },
+        {
+            "key": "Accessory cabinet signaltower cable1",
+            "code": "CSP17927",
+            "item": "Accessory cabinet signaltower cable1"
+        },
+        {
+            "key": "Accessory cabinet signaltower cable2",
+            "code": "CSP17960",
+            "item": "Accessory cabinet signaltower cable2"
+        },
+        {
+            "key": "Accessory Cabinet Front Fan Cable",
+            "code": "CSP17965",
+            "item": "Accessory Cabinet Front Fan Cable"
+        },
+        {
+            "key": "PLC 24VDC Transistor output",
+            "code": "CSP17995",
+            "item": "PLC 24VDC Transistor output"
+        },
+        {
+            "key": "Temperature Controller 24VDC, DIN rail",
+            "code": "CSP17996",
+            "item": "Temperature Controller 24VDC, DIN rail"
+        },
+        {
+            "key": "Temperature Sensor",
+            "code": "CSP17997",
+            "item": "Temperature Sensor"
+        },
+        {
+            "key": "Adapter for temp. controller",
+            "code": "CSP17998",
+            "item": "Adapter for temp. controller"
+        },
+        {
+            "key": "Accessory Cabinet pump enable internal wire",
+            "code": "CSP18025",
+            "item": "Accessory Cabinet pump enable internal wire"
+        },
+        {
+            "key": "Accessory Cabinet led cable",
+            "code": "CSP18026",
+            "item": "Accessory Cabinet led cable"
+        },
+        {
+            "key": "Accessory Cabinet container sensor",
+            "code": "CSP18040",
+            "item": "Accessory Cabinet container sensor"
+        },
+        {
+            "key": "Accessory Cabinet pump mains cable",
+            "code": "CSP18042",
+            "item": "Accessory Cabinet pump mains cable"
+        },
+        {
+            "key": "Tubing, 1/2\" I.D.x 3/4\" O.D, Tygon 2375",
+            "code": "CSP18070",
+            "item": "Tubing, 1/2\" I.D.x 3/4\" O.D, Tygon 2375"
+        },
+        {
+            "key": "Waste Container Adapter",
+            "code": "CSP18163",
+            "item": "Waste Container Adapter"
+        },
+        {
+            "key": "Tubing ID 3/16\" OD 1/4\" PTFE (for nitrogen)",
+            "code": "CSP18690",
+            "item": "Tubing ID 3/16\" OD 1/4\" PTFE (for nitrogen)"
+        },
+        {
+            "key": "Tip waste inner tube assembly",
+            "code": "CSP18784",
+            "item": "Tip waste inner tube assembly"
+        },
+        {
+            "key": "Tubing OD 1/8\" ID 0.065\"CU",
+            "code": "CSP18842",
+            "item": "Tubing OD 1/8\" ID 0.065\"CU"
+        },
+        {
+            "key": "Forevacuum pump",
+            "code": "CSP19055",
+            "item": "Forevacuum pump"
+        },
+        {
+            "key": "Flow Control Silencer, 02-1096",
+            "code": "CSP21096",
+            "item": "Flow Control Silencer, 02-1096"
+        },
+        {
+            "key": "Straight 1/4 BSPP x6mm push-fitting",
+            "code": "CSP24600",
+            "item": "Straight 1/4 BSPP x6mm push-fitting"
+        },
+        {
+            "key": "Filter element",
+            "code": "CSP24640",
+            "item": "Filter element"
+        },
+        {
+            "key": "Valve Sol 3/2 Universal 24 V DC",
+            "code": "CSP25494",
+            "item": "Valve Sol 3/2 Universal 24 V DC"
+        },
+        {
+            "key": "Valve Sol 2/2 24 V DC 2.5 orifice",
+            "code": "CSP25504",
+            "item": "Valve Sol 2/2 24 V DC 2.5 orifice"
+        },
+        {
+            "key": "Relay DC 5-24V",
+            "code": "CSP30126",
+            "item": "Relay DC 5-24V"
+        },
+        {
+            "key": "Relay plug-in 5 pin 10 A",
+            "code": "CSP44534",
+            "item": "Relay plug-in 5 pin 10 A"
+        },
+        {
+            "key": "NM32LA genius service kit",
+            "code": "CSP48780",
+            "item": "NM32LA genius service kit"
+        },
+        {
+            "key": "NM32LA genius service kit",
+            "code": "CSP48780B",
+            "item": "NM32LA genius service kit"
+        },
+        {
+            "key": "Membrane N2 - 54 mm OD 610 mm length",
+            "code": "CSP64418",
+            "item": "Membrane N2 - 54 mm OD 610 mm length"
+        },
+        {
+            "key": "Compressor service kit",
+            "code": "CSP65529",
+            "item": "Compressor service kit"
+        },
+        {
+            "key": "Compressor rubber mount",
+            "code": "CSP66173",
+            "item": "Compressor rubber mount"
+        },
+        {
+            "key": "Cable Ethernet 0.5 m",
+            "code": "CSP711171",
+            "item": "Cable Ethernet 0.5 m"
+        },
+        {
+            "key": "Syringe 500 uL, Gas tight , 22 gauge",
+            "code": "CSP81265",
+            "item": "Syringe 500 uL, Gas tight , 22 gauge"
+        },
+        {
+            "key": "Compressor assembly",
+            "code": "CSP88141",
+            "item": "Compressor assembly"
+        },
+        {
+            "key": "NM32LA Complete service kit",
+            "code": "CSP89401",
+            "item": "NM32LA Complete service kit"
+        },
+        {
+            "key": "multiplier assy",
+            "code": "EXR00950-01-00387QElectron",
+            "item": "multiplier assy"
+        },
+        {
+            "key": "KIT, PM, TSQ ENDURA/FUSION",
+            "code": "OPTON-30183",
+            "item": "KIT, PM, TSQ ENDURA/FUSION"
+        },
+        {
+            "key": "ChromaCare LC-MS Instrument Flush Solution",
+            "code": "T111101000",
+            "item": "ChromaCare LC-MS Instrument Flush Solution"
+        },
+        {
+            "key": "Robot",
+            "code": "CSP09263",
+            "item": "Robot"
+        },
+        {
+            "key": "Acetic Acid Optima LC/MSGrade",
+            "code": "A113-1AMP",
+            "item": "Acetic Acid Optima LC/MSGrade"
+        },
+        {
+            "key": "PP update kit",
+            "code": "CSP00949",
+            "item": "PP update kit"
+        },
+        {
+            "key": "PP update kit",
+            "code": "CSP00950",
+            "item": "PP update kit"
+        },
+        {
+            "key": "SW R5 Release",
+            "code": "CSP00951",
+            "item": "SW R5 Release"
+        },
+        {
+            "key": "SW R5 SP1 Release",
+            "code": "CSP00952",
+            "item": "SW R5 SP1 Release"
+        },
+        {
+            "key": "SW RC1 Release",
+            "code": "CSP00953",
+            "item": "SW RC1 Release"
+        },
+        {
+            "key": "SW RC1 SP1 Release",
+            "code": "CSP00954",
+            "item": "SW RC1 SP1 Release"
+        },
+        {
+            "key": "SW RC2 Release",
+            "code": "CSP00955",
+            "item": "SW RC2 Release"
+        },
+        {
+            "key": "SW RC2 SP1 Release",
+            "code": "CSP00965",
+            "item": "SW RC2 SP1 Release"
+        },
+        {
+            "key": "Cascadion Mixing Tip tray (Box of 4 tip trays)",
+            "code": "CSP01002",
+            "item": "Cascadion Mixing Tip tray (Box of 4 tip trays)"
+        },
+        {
+            "key": "SW RC3 Release, REQUIRESPP UPDATE KIT 4",
+            "code": "CSP01003",
+            "item": "SW RC3 Release, REQUIRESPP UPDATE KIT 4"
+        },
+        {
+            "key": "PP update kit 03, Vesseltray loader",
+            "code": "CSP01005",
+            "item": "PP update kit 03, Vesseltray loader"
+        },
+        {
+            "key": "PP update kit 04, Wash Tube Upgrade REQUIRES RC3 U",
+            "code": "CSP01006",
+            "item": "PP update kit 04, Wash Tube Upgrade REQUIRES RC3 U"
+        },
+        {
+            "key": "Field update kit 02/18",
+            "code": "CSP01029",
+            "item": "Field update kit 02/18"
+        },
+        {
+            "key": "Barcode reader",
+            "code": "CSP01036",
+            "item": "Barcode reader"
+        },
+        {
+            "key": "Field upgrade kit 03/18",
+            "code": "CSP01038",
+            "item": "Field upgrade kit 03/18"
+        },
+        {
+            "key": "Cascadion SW 1.1 releasefield update kit",
+            "code": "CSP01039",
+            "item": "Cascadion SW 1.1 releasefield update kit"
+        },
+        {
+            "key": "Field upgrade kit 04/18",
+            "code": "CSP01055",
+            "item": "Field upgrade kit 04/18"
+        },
+        {
+            "key": "Field update kit 01/19",
+            "code": "CSP01080",
+            "item": "Field update kit 01/19"
+        },
+        {
+            "key": "Cascadion SM Software version 1.2 installation med",
+            "code": "CSP01087",
+            "item": "Cascadion SM Software version 1.2 installation med"
+        },
+        {
+            "key": "Field Upgrade Kit 02/19",
+            "code": "CSP01088",
+            "item": "Field Upgrade Kit 02/19"
+        },
+        {
+            "key": "Cascadion software version 1.2 help file translati",
+            "code": "CSP01091",
+            "item": "Cascadion software version 1.2 help file translati"
+        },
+        {
+            "key": "Shock Indicator 25 G",
+            "code": "CSP07056",
+            "item": "Shock Indicator 25 G"
+        },
+        {
+            "key": "Middle Led Panel",
+            "code": "CSP10102",
+            "item": "Middle Led Panel"
+        },
+        {
+            "key": "Bolt Thermistor 3",
+            "code": "CSP10111",
+            "item": "Bolt Thermistor 3"
+        },
+        {
+            "key": "Clip VHA 7500",
+            "code": "CSP11041",
+            "item": "Clip VHA 7500"
+        },
+        {
+            "key": "Vessel jig assembly",
+            "code": "CSP11933",
+            "item": "Vessel jig assembly"
+        },
+        {
+            "key": "Air filter",
+            "code": "CSP13397",
+            "item": "Air filter"
+        },
+        {
+            "key": "MP scale cable 1",
+            "code": "CSP13568",
+            "item": "MP scale cable 1"
+        },
+        {
+            "key": "MP Scale cable 2",
+            "code": "CSP13569",
+            "item": "MP Scale cable 2"
+        },
+        {
+            "key": "Signal Tower Assembly",
+            "code": "CSP19807",
+            "item": "Signal Tower Assembly"
+        },
+        {
+            "key": "Signal Tower Led Module LR6-E-R",
+            "code": "CSP19809",
+            "item": "Signal Tower Led Module LR6-E-R"
+        },
+        {
+            "key": "Signal Tower Led Module LR6-E-Y",
+            "code": "CSP19810",
+            "item": "Signal Tower Led Module LR6-E-Y"
+        },
+        {
+            "key": "Signal Tower Led Module LR6-E-G",
+            "code": "CSP19811",
+            "item": "Signal Tower Led Module LR6-E-G"
+        },
+        {
+            "key": "Signal Tower Led Module LR6-E-B",
+            "code": "CSP19812",
+            "item": "Signal Tower Led Module LR6-E-B"
+        },
+        {
+            "key": "VIM A valve pod",
+            "code": "CSP01101",
+            "item": "VIM A valve pod"
+        },
+        {
+            "key": "VIM B valve pod",
+            "code": "CSP01102",
+            "item": "VIM B valve pod"
+        },
+        {
+            "key": "Injector valve pod",
+            "code": "CSP01103",
+            "item": "Injector valve pod"
+        },
+        {
+            "key": "LC pump valve pod",
+            "code": "CSP01104",
+            "item": "LC pump valve pod"
+        },
+        {
+            "key": "OCTOPOLE, 28.6 LG, 2.8 R0 MP00",
+            "code": "80100-20490",
+            "item": "OCTOPOLE, 28.6 LG, 2.8 R0 MP00"
+        },
+        {
+            "key": "25-Hydroxy Vitamin D Assay installation",
+            "code": "CSP01089",
+            "item": "25-Hydroxy Vitamin D Assay installation"
+        },
+        {
+            "key": "Field Upgrade Kit 03/19 (Column Heater)",
+            "code": "CSP01105",
+            "item": "Field Upgrade Kit 03/19 (Column Heater)"
+        },
+        {
+            "key": "Field Upgrade Kit 04/19",
+            "code": "CSP01112",
+            "item": "Field Upgrade Kit 04/19"
+        },
+        {
+            "key": "Cascadion SM Software version 2.0 media",
+            "code": "CSP01113",
+            "item": "Cascadion SM Software version 2.0 media"
+        },
+        {
+            "key": "Field Upgrade Kit 01/2020 (LC air seal a",
+            "code": "CSP01137",
+            "item": "Field Upgrade Kit 01/2020 (LC air seal a"
+        },
+        {
+            "key": "Cascadion™ SM ISD Application media",
+            "code": "CSP01144",
+            "item": "Cascadion™ SM ISD Application media"
+        },
+        {
+            "key": "Field Upgrade Kit 02/2020",
+            "code": "CSP01145",
+            "item": "Field Upgrade Kit 02/2020"
+        },
+        {
+            "key": "Field Upgrade Kit 03/2020",
+            "code": "CSP01146",
+            "item": "Field Upgrade Kit 03/2020"
+        },
+        {
+            "key": "Field Upgrade Kit 05/2020",
+            "code": "CSP01147",
+            "item": "Field Upgrade Kit 05/2020"
+        },
+        {
+            "key": "Cascadion SM Software version 2.0.1 inst",
+            "code": "CSP01148",
+            "item": "Cascadion SM Software version 2.0.1 inst"
+        },
+        {
+            "key": "Cascadion SW 2.1 installation media",
+            "code": "CSP01198",
+            "item": "Cascadion SW 2.1 installation media"
+        },
+        {
+            "key": "Clamp plate",
+            "code": "CSP09361",
+            "item": "Clamp plate"
+        },
+        {
+            "key": "Rack slot door, reagent",
+            "code": "CSP09394",
+            "item": "Rack slot door, reagent"
+        },
+        {
+            "key": "Rack slot door, sample",
+            "code": "CSP09395",
+            "item": "Rack slot door, sample"
+        },
+        {
+            "key": "IGUS Iglidur Flange bearing GFM-04050-04",
+            "code": "CSP09831",
+            "item": "IGUS Iglidur Flange bearing GFM-04050-04"
+        },
+        {
+            "key": "Rack door spring, reagent",
+            "code": "CSP10074",
+            "item": "Rack door spring, reagent"
+        },
+        {
+            "key": "Rack door spring, sample",
+            "code": "CSP10075",
+            "item": "Rack door spring, sample"
+        },
+        {
+            "key": "Reagent rack positioning spring",
+            "code": "CSP10605",
+            "item": "Reagent rack positioning spring"
+        },
+        {
+            "key": "Column Heater Left Assembly",
+            "code": "CSP20549",
+            "item": "Column Heater Left Assembly"
+        },
+        {
+            "key": "Locking piece, column heater",
+            "code": "CSP20575",
+            "item": "Locking piece, column heater"
+        },
+        {
+            "key": "Column Heater Right Assembly",
+            "code": "CSP20608",
+            "item": "Column Heater Right Assembly"
+        },
+        {
+            "key": "Cascadion Plumbing Tool Installer",
+            "code": "CSP22078",
+            "item": "Cascadion Plumbing Tool Installer"
+        },
+        {
+            "key": "End Cap Set (10 pcs)",
+            "code": "CSP22221",
+            "item": "End Cap Set (10 pcs)"
+        },
+        {
+            "key": "Tubing heater, AgileSleeve Plus",
+            "code": "CSP22515",
+            "item": "Tubing heater, AgileSleeve Plus"
+        },
+        {
+            "key": "32-gauge metal needle insert",
+            "code": "OPTON-30694",
+            "item": "32-gauge metal needle insert"
+        },
+        {
+            "key": "LC Valve Control Cable, CH 2",
+            "code": "65000-63036",
+            "item": "LC Valve Control Cable, CH 2"
+        },
+        {
+            "key": "Cascadion Sample prep. PC",
+            "code": "CSP15442",
+            "item": "Cascadion Sample prep. PC"
+        },
+        {
+            "key": "Cascadion LCMS PC",
+            "code": "CSP15443",
+            "item": "Cascadion LCMS PC"
+        }
+    ]
+}
