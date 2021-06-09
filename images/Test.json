@@ -1,6 +1,11 @@
 {
     "collection": [
         {
+            "key": "CentrifugeLid",
+            "code": "000000000",
+            "item": "a part name I added myself"
+        },
+        {
             "key": "Fitting Swagelok ferruleback 1/8 in",
             "code": "00101-02500",
             "item": "Fitting Swagelok ferruleback 1/8 in"
