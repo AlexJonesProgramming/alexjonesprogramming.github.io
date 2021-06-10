@@ -6,6 +6,71 @@
             "item": "a part name I added myself"
         },
         {
+            "key": "BackPanels",
+            "code": "000000001",
+            "item": "Back Panels"
+        },
+        {
+            "key": "Doors",
+            "code": "000000002",
+            "item": "Door Panels"
+        },
+        {
+            "key": "Fans",
+            "code": "000000003",
+            "item": "Fans"
+        },
+        {
+            "key": "Feet",
+            "code": "000000004",
+            "item": "Legs"
+        },
+        {
+            "key": "Frame",
+            "code": "000000005",
+            "item": "Frame"
+        },
+        {
+            "key": "FrameCentrifuge",
+            "code": "000000006",
+            "item": "Centrifuge"
+        },
+        {
+            "key": "FuseBox",
+            "code": "000000007",
+            "item": "Fuse Box"
+        },
+        {
+            "key": "HosesWasteCompartment",
+            "code": "000000008",
+            "item": "Waste Compartment"
+        },
+        {
+            "key": "KeyboardTray",
+            "code": "000000009",
+            "item": "Keyboard Tray"
+        },
+        {
+            "key": "LED",
+            "code": "0000000a1",
+            "item": "Lights"
+        },
+        {
+            "key": "Ports",
+            "code": "00000000a2",
+            "item": "Ports"
+        },
+        {
+            "key": "RackBar",
+            "code": "0000000a3",
+            "item": "Rack Bar"
+        },
+        {
+            "key": "Restraints",
+            "code": "00000000a4",
+            "item": "Restraints"
+        },
+        {
             "key": "Fitting Swagelok ferruleback 1/8 in",
             "code": "00101-02500",
             "item": "Fitting Swagelok ferruleback 1/8 in"
