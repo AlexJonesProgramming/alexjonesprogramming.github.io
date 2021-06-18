@@ -1,9 +1,79 @@
 {
     "collection": [
-        {
+        	{
+            "key": "CentrifugeBase",
+            "code": "C00000001",
+            "item": "Core"
+        },
+	{
+            "key": "CentrifugeBucket",
+            "code": "C00000002",
+            "item": "Bucket"
+        },
+	{
+            "key": "Screw Washer",
+            "code": "C00000003",
+            "item": "Screw & Washer"
+        },
+	{
+            "key": "PlasticCap",
+            "code": "C00000004",
+            "item": "Cap"
+        },
+	{
             "key": "CentrifugeLid",
-            "code": "000000000",
-            "item": "a part name I added myself"
+            "code": "C00000005",
+            "item": "Lid"
+        },
+	{
+            "key": "CentrifugeRotor",
+            "code": "C00000006",
+            "item": "Rotor"
+        },
+	{
+            "key": "CircuitBoardCentrifuge",
+            "code": "C00000007",
+            "item": "Circuit Board"
+        },
+	{
+            "key": "Hinge Pin",
+            "code": "C00000008",
+            "item": "Hinge Pin"
+        },
+	{
+            "key": "Latch",
+            "code": "C00000009",
+            "item": "Latch"
+        },
+	{
+            "key": "BottleCap",
+            "code": "W00000001",
+            "item": "Bottle Cap"
+        },
+	{
+            "key": "WasteBottle",
+            "code": "W00000002",
+            "item": "Waste Bottle"
+        },
+	{
+            "key": "WasteTube",
+            "code": "W00000003",
+            "item": "Waste Tube"
+        },
+	{
+            "key": "caRailAttachment",
+            "code": "CC0000001",
+            "item": "Rail"
+        },
+	{
+            "key": "caComputers",
+            "code": "CC0000002",
+            "item": "Computer"
+        },
+	{
+            "key": "caMountWiring",
+            "code": "CC0000003",
+            "item": "Mount Wiring"
         },
         {
             "key": "BackPanels",
