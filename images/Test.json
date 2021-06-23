@@ -2,7 +2,7 @@
     "collection": [
         	{
             "key": "CentrifugeBase",
-            "code": "CSP13586",
+            "code": "CSP09927",
             "item": "Core"
         },
 	{
@@ -22,12 +22,12 @@
         },
 	{
             "key": "CentrifugeLid",
-            "code": "CSP13586",
+            "code": "CSP09927",
             "item": "Lid"
         },
 	{
             "key": "CentrifugeRotor",
-            "code": "CSP13586",
+            "code": "CSP13587",
             "item": "Rotor"
         },
 	{
