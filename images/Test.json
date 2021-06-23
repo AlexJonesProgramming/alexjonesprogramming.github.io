@@ -2,37 +2,37 @@
     "collection": [
         	{
             "key": "CentrifugeBase",
-            "code": "C00000001",
+            "code": "CSP13586",
             "item": "Core"
         },
 	{
             "key": "CentrifugeBucket",
-            "code": "C00000002",
+            "code": "CSP13586",
             "item": "Bucket"
         },
 	{
             "key": "Screw Washer",
-            "code": "C00000003",
+            "code": "CSP13586",
             "item": "Screw & Washer"
         },
 	{
             "key": "PlasticCap",
-            "code": "C00000004",
+            "code": "CSP13586",
             "item": "Cap"
         },
 	{
             "key": "CentrifugeLid",
-            "code": "C00000005",
+            "code": "CSP13586",
             "item": "Lid"
         },
 	{
             "key": "CentrifugeRotor",
-            "code": "C00000006",
+            "code": "CSP13586",
             "item": "Rotor"
         },
 	{
             "key": "CircuitBoardCentrifuge",
-            "code": "C00000007",
+            "code": "CSP13586",
             "item": "Circuit Board"
         },
 	{
